@@ -3203,6 +3203,12 @@ input[type="button"].btn-block {
   white-space: nowrap;
   background-color: transparent;
   border: 0;
+  
+}
+a,a:hover,a:focus,a:active{
+  text-decoration: none;
+  color:inherit;
+
 }
 
 .dropdown-item:hover, .dropdown-item:focus {
