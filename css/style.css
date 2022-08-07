@@ -3210,6 +3210,9 @@ a,a:hover,a:focus,a:active{
   color:inherit;
 
 }
+.mylist{
+  height: inherit;
+}
 
 .dropdown-item:hover, .dropdown-item:focus {
   color: #16181b;
